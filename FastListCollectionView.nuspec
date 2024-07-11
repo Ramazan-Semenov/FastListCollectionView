@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+<id>FastListCollectionView</id>
+    <version>1.0.2</version>
+    <title>FastListCollectionView</title>
+    <authors>Ramazan Semenov</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/Ramazan-Semenov/GroupingMultilevel</projectUrl>
+    <description>Быстрая группировка для DataGrid</description>
+    <releaseNotes></releaseNotes>
+    <copyright>copyright 2024</copyright>
+    <tags>GroupCollection CollectionView</tags>
+  </metadata>
+</package>
